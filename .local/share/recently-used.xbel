@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/itcl2/Downloads/HCIL%20Assignment%202.pdf" added="2024-07-26T05:19:23.479120Z" modified="2024-08-05T06:34:07.210879Z" visited="2024-07-26T05:19:23.479122Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-07-26T05:19:23.539984Z" count="2"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2024-07-29T06:15:19.060275Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-05T06:34:07.210878Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/HCIL%20Assignment%202.docx" added="2024-07-26T05:20:35.551092Z" modified="2024-08-12T06:11:32.304902Z" visited="2024-07-26T05:20:35.551093Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-12T06:11:32.304901Z" count="14"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2024-07-29T06:18:27.328144Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/HCIL%20Assignment%202" added="2024-07-26T05:35:28.017183Z" modified="2024-07-26T05:35:28.017196Z" visited="2024-07-26T05:35:28.017185Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-07-26T05:35:28.017190Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/HCIL%20Assignment%202.odt" added="2024-07-26T05:35:28.892671Z" modified="2024-08-05T06:52:32.657901Z" visited="2024-07-26T05:35:28.892672Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-05T06:52:32.657900Z" count="30"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2024-07-29T06:18:03.754120Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/mayuri%20dere" added="2024-07-26T07:43:34.463372Z" modified="2024-07-26T07:43:34.463383Z" visited="2024-07-26T07:43:34.463374Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-07-26T07:43:34.463377Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/binaryarray.cpp" added="2024-07-26T08:09:00.017103Z" modified="2024-07-29T07:49:07.827053Z" visited="2024-07-26T08:09:00.017104Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-07-29T07:49:07.827052Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/mayuri%20dere/binaryarray.cpp" added="2024-07-26T08:09:34.522966Z" modified="2024-08-28T06:30:30.193850Z" visited="2024-07-26T08:09:34.522966Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-28T05:22:18.469204Z" count="36"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2024-07-26T09:03:57.932278Z" count="2"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-08-28T06:30:30.179915Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-08-28T06:30:30.193848Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Ass1_d.cpp" added="2024-07-26T09:22:21.660056Z" modified="2024-08-27T05:28:52.892015Z" visited="2024-07-26T09:22:21.660058Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-27T05:28:52.892013Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/snap/snapd-desktop-integration/157/Downloads/HCIL%20Assignment%202.docx" added="2024-07-29T06:16:53.716703Z" modified="2024-07-29T06:17:04.476930Z" visited="2024-07-29T06:16:53.716705Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2024-07-29T06:16:53.716706Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-07-29T06:17:04.476928Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/snap/snapd-desktop-integration/157/Downloads/HCIL%20Assignment%202.odt" added="2024-07-29T06:17:07.727552Z" modified="2024-07-29T06:17:09.138124Z" visited="2024-07-29T06:17:07.727557Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2024-07-29T06:17:07.727564Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-07-29T06:17:09.138122Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/snap/snapd-desktop-integration/157/Downloads/HCIL%20Assignment%202.pdf" added="2024-07-29T06:17:21.572812Z" modified="2024-08-12T05:59:50.109113Z" visited="2024-07-29T06:17:21.572813Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2024-08-12T05:59:50.109112Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/patil.cpp" added="2024-07-29T07:48:22.796654Z" modified="2024-08-06T06:19:53.545848Z" visited="2024-07-29T07:48:22.796655Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-06T06:19:53.545847Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/vishal.cpp" added="2024-07-29T07:49:01.555015Z" modified="2024-10-04T07:40:30.534541Z" visited="2024-07-29T07:49:01.555017Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-04T07:40:30.534540Z" count="14"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2024-08-05T08:00:00.602510Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup%20(1).exe" added="2024-07-29T09:02:14.361919Z" modified="2024-07-29T09:02:14.552057Z" visited="2024-07-29T09:02:14.361919Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;arqiver %f&apos;" modified="2024-07-29T09:02:14.552031Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup%20(2).exe" added="2024-07-29T09:02:43.265896Z" modified="2024-07-29T09:02:43.850150Z" visited="2024-07-29T09:02:43.265897Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;arqiver %f&apos;" modified="2024-07-29T09:02:43.850141Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe" added="2024-07-29T09:03:13.394502Z" modified="2024-07-29T09:03:13.394522Z" visited="2024-07-29T09:03:13.394505Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;arqiver %f&apos;" modified="2024-07-29T09:03:13.394513Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Documents/assingment1.cpp" added="2024-07-29T09:06:38.481238Z" modified="2024-08-27T05:24:10.713312Z" visited="2024-07-29T09:06:38.481240Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-27T05:24:10.713310Z" count="26"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/mayuri%20dere/Ass1_d.cpp" added="2024-07-31T05:07:23.048295Z" modified="2024-08-28T06:29:51.858509Z" visited="2024-07-31T05:07:23.048295Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-28T05:22:37.705718Z" count="33"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2024-08-02T08:08:47.836317Z" count="2"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-08-28T06:29:51.849564Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-08-28T06:29:51.858507Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Pictures/Screenshots/Screenshot%20from%202024-08-01%2012-36-43.png" added="2024-08-01T07:07:07.578340Z" modified="2024-08-01T07:14:40.346757Z" visited="2024-08-01T07:07:07.578342Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-08-01T07:14:40.304686Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-08-01T07:14:40.346755Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Pictures/Screenshots/Screenshot%20from%202024-08-01%2012-47-03.png" added="2024-08-01T07:17:17.387263Z" modified="2024-08-01T07:35:35.443473Z" visited="2024-08-01T07:17:17.387265Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-08-01T07:35:35.329673Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-08-01T07:35:35.443470Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Untitled%20Document%201" added="2024-08-02T07:56:26.115244Z" modified="2024-09-24T05:07:36.903867Z" visited="2024-08-02T07:56:26.115246Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T05:07:36.903863Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/multiplicationtable.cpp" added="2024-08-02T09:04:24.632987Z" modified="2024-08-02T09:04:24.931950Z" visited="2024-08-02T09:04:24.632988Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-02T09:04:24.931948Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/mayuri%20dere/multiplicationtable.cpp" added="2024-08-02T09:04:53.268610Z" modified="2024-08-28T06:31:07.746082Z" visited="2024-08-02T09:04:53.268610Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-28T05:22:28.219759Z" count="8"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-08-28T06:31:07.732902Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-08-28T06:31:07.746080Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/mayuri%20dere/assingment1.cpp" added="2024-08-02T09:13:30.694879Z" modified="2024-08-28T06:30:15.563817Z" visited="2024-08-02T09:13:30.694879Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-28T05:22:05.813364Z" count="6"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2024-08-28T05:22:04.858893Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-08-28T06:30:15.538865Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-08-28T06:30:15.563812Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Assi1Abhishek.c" added="2024-08-05T06:19:41.948606Z" modified="2024-08-05T06:19:42.252447Z" visited="2024-08-05T06:19:41.948608Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-05T06:19:42.252445Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/HCIL%20Assignment%202%20(1).pdf" added="2024-08-05T06:33:31.485520Z" modified="2024-08-12T06:19:40.066332Z" visited="2024-08-05T06:33:31.485521Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2024-08-12T06:19:40.066331Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/img1" added="2024-08-05T06:35:52.022062Z" modified="2024-10-21T03:25:04.131285Z" visited="2024-08-05T06:35:52.022062Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;gio open %u&apos;" modified="2024-08-05T06:35:52.271313Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2024-10-21T03:25:03.743658Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-10-21T03:25:04.131281Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/img2" added="2024-08-05T06:36:25.323045Z" modified="2024-08-05T06:36:25.565500Z" visited="2024-08-05T06:36:25.323045Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;gio open %u&apos;" modified="2024-08-05T06:36:25.565495Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/img3.jpeg" added="2024-08-05T06:37:23.982628Z" modified="2024-08-05T06:50:46.802843Z" visited="2024-08-05T06:37:23.982629Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;gio open %u&apos;" modified="2024-08-05T06:37:24.231417Z" count="2"/>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-05T06:50:46.802840Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/img4.jpeg" added="2024-08-05T06:38:17.564107Z" modified="2024-08-05T06:40:10.302412Z" visited="2024-08-05T06:38:17.564107Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;gio open %u&apos;" modified="2024-08-05T06:38:17.813658Z" count="2"/>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-05T06:40:10.302410Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/img5.jpeg" added="2024-08-05T06:39:05.730438Z" modified="2024-10-22T03:46:11.104497Z" visited="2024-08-05T06:39:05.730439Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;gio open %u&apos;" modified="2024-08-05T06:39:05.980538Z" count="2"/>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-05T06:48:54.950544Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2024-10-22T03:46:10.679680Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-10-22T03:46:11.104496Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/HCIL%20Assignment%202(68)" added="2024-08-05T06:52:32.251153Z" modified="2024-08-05T06:52:32.251165Z" visited="2024-08-05T06:52:32.251154Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-05T06:52:32.251160Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/HCIL%20Assignment%202(68).odt" added="2024-08-05T06:52:33.097998Z" modified="2024-08-12T06:12:41.954168Z" visited="2024-08-05T06:52:33.097999Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-12T06:12:41.954167Z" count="9"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2024-08-12T06:12:40.444060Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-08-12T06:05:27.836264Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Documents/assignment1.cpp" added="2024-08-05T07:50:01.581864Z" modified="2024-08-06T06:12:39.865428Z" visited="2024-08-05T07:50:01.581866Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-06T06:12:39.865424Z" count="21"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/vishal%20patil" added="2024-08-05T07:52:26.011605Z" modified="2024-10-21T03:28:31.182635Z" visited="2024-08-05T07:52:26.011607Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-21T03:28:31.182633Z" count="15"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/Ass1_d.cpp" added="2024-08-05T08:58:20.526195Z" modified="2024-08-27T05:43:37.584807Z" visited="2024-08-05T08:58:20.526196Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-27T05:43:37.584805Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/assign1.cpp" added="2024-08-05T08:59:37.318651Z" modified="2024-09-10T05:32:44.090146Z" visited="2024-08-05T08:59:37.318653Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-10T05:32:44.090145Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/tejas%20patil" added="2024-08-06T06:20:57.537832Z" modified="2024-08-06T06:20:57.537841Z" visited="2024-08-06T06:20:57.537833Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-08-06T06:20:57.537836Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Pictures/Screenshots/Screenshot%20from%202024-08-06%2013-19-37.png" added="2024-08-06T07:49:37.987482Z" modified="2024-08-06T07:49:37.987488Z" visited="2024-08-06T07:49:37.987483Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2024-08-06T07:49:37.987486Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Desktop/chetan%2056/Screenshot%20from%202024-08-06%2013-19-37.png" added="2024-08-06T07:50:22.871694Z" modified="2024-08-06T07:50:23.275831Z" visited="2024-08-06T07:50:22.871697Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2024-08-06T07:50:22.871698Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-08-06T07:50:23.275828Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Pictures/Screenshots/Screenshot%20from%202024-08-06%2013-23-11.png" added="2024-08-06T07:53:11.038751Z" modified="2024-08-06T07:53:11.038754Z" visited="2024-08-06T07:53:11.038751Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2024-08-06T07:53:11.038753Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/chetan%2056/Screenshot%20from%202024-08-06%2013-23-11.png" added="2024-08-06T07:53:33.703150Z" modified="2024-08-06T07:53:34.086647Z" visited="2024-08-06T07:53:33.703155Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2024-08-06T07:53:33.838057Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-08-06T07:53:34.086646Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/chetan.c" added="2024-08-06T07:55:50.618557Z" modified="2024-10-14T07:48:02.701964Z" visited="2024-08-06T07:55:50.618559Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-14T07:48:02.701962Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/chetan%2056/chetan.c" added="2024-08-06T07:56:48.215301Z" modified="2024-08-06T08:18:46.323235Z" visited="2024-08-06T07:56:48.215303Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-06T08:18:46.323230Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Pictures/Screenshots/Screenshot%20from%202024-08-06%2013-27-38.png" added="2024-08-06T07:57:38.908241Z" modified="2024-08-06T07:57:38.908245Z" visited="2024-08-06T07:57:38.908241Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2024-08-06T07:57:38.908243Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Pictures/Screenshots/Screenshot%20from%202024-08-06%2013-30-18.png" added="2024-08-06T08:00:18.597342Z" modified="2024-08-06T08:00:18.597346Z" visited="2024-08-06T08:00:18.597342Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2024-08-06T08:00:18.597344Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Pictures/Screenshots/Screenshot%20from%202024-08-06%2013-34-53.png" added="2024-08-06T08:04:53.821399Z" modified="2024-08-06T08:04:53.821404Z" visited="2024-08-06T08:04:53.821400Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2024-08-06T08:04:53.821402Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Pictures/Screenshots/Screenshot%20from%202024-08-06%2013-37-50.png" added="2024-08-06T08:07:50.098489Z" modified="2024-08-06T08:07:50.098493Z" visited="2024-08-06T08:07:50.098489Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2024-08-06T08:07:50.098491Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Pictures/Screenshots/Screenshot%20from%202024-08-06%2013-39-37.png" added="2024-08-06T08:09:37.708097Z" modified="2024-08-06T08:09:37.708101Z" visited="2024-08-06T08:09:37.708097Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2024-08-06T08:09:37.708099Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/chetan%2056/Screenshot%20from%202024-08-06%2013-39-37.png" added="2024-08-06T08:10:14.116552Z" modified="2024-08-06T08:10:14.450617Z" visited="2024-08-06T08:10:14.116555Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2024-08-06T08:10:14.116561Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-08-06T08:10:14.450616Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Pictures/Screenshots/Screenshot%20from%202024-08-06%2013-51-58.png" added="2024-08-06T08:21:58.524759Z" modified="2024-08-06T08:21:58.524763Z" visited="2024-08-06T08:21:58.524759Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2024-08-06T08:21:58.524761Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Pictures/Screenshots/Screenshot%20from%202024-08-06%2013-53-23.png" added="2024-08-06T08:23:23.130352Z" modified="2024-08-06T08:23:23.130355Z" visited="2024-08-06T08:23:23.130352Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2024-08-06T08:23:23.130353Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/chetan%2056/Cat.png" added="2024-08-06T08:24:23.662566Z" modified="2024-08-06T08:24:23.995381Z" visited="2024-08-06T08:24:23.662567Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2024-08-06T08:24:23.662571Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-08-06T08:24:23.995379Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/chetan%2056/echo.png" added="2024-08-06T08:30:33.229310Z" modified="2024-08-06T08:30:33.544913Z" visited="2024-08-06T08:30:33.229315Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2024-08-06T08:30:33.229324Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-08-06T08:30:33.544912Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Matrix.cpp" added="2024-08-08T03:00:02.483337Z" modified="2024-10-21T03:28:39.802929Z" visited="2024-08-08T03:00:02.483338Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-21T03:28:39.802928Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Matrix1.cpp" added="2024-08-08T03:43:02.119373Z" modified="2024-08-08T03:48:22.877734Z" visited="2024-08-08T03:43:02.119374Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-08T03:48:22.877732Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/vaishnavi" added="2024-08-12T03:27:31.995967Z" modified="2024-08-12T03:27:31.995977Z" visited="2024-08-12T03:27:31.995969Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-08-12T03:27:31.995971Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/vaishnavi/array1.cpp" added="2024-08-12T03:29:15.697028Z" modified="2024-08-27T05:08:04.801203Z" visited="2024-08-12T03:29:15.697030Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-27T05:08:04.801202Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/itcl2/UBUNTU%2022_0/HCIL%20Assignment%202(68).odt" added="2024-08-12T06:02:24.770305Z" modified="2024-08-12T06:11:58.166866Z" visited="2024-08-12T06:02:24.770306Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-12T06:11:58.166861Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/HCIL%20Assignment%202(68).pdf" added="2024-08-12T06:06:14.048023Z" modified="2024-08-12T06:19:57.960880Z" visited="2024-08-12T06:06:14.048037Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2024-08-12T06:19:57.960869Z" count="5"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2024-08-12T06:18:26.151556Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/itcl2/UBUNTU%2022_0/write-up%20sahil/linux%20basic%20command.odt" added="2024-08-12T06:06:51.701998Z" modified="2024-08-12T06:12:21.554900Z" visited="2024-08-12T06:06:51.701999Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-12T06:12:21.554895Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/ass1.pdf" added="2024-08-12T06:19:20.547704Z" modified="2024-08-12T06:19:20.547709Z" visited="2024-08-12T06:19:20.547705Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2024-08-12T06:19:20.547707Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/practiceprogram.cpp" added="2024-08-12T08:19:36.739945Z" modified="2024-08-27T05:12:08.380467Z" visited="2024-08-12T08:19:36.739946Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-27T05:12:08.380466Z" count="14"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/assignment1.cpp" added="2024-08-21T05:15:59.717156Z" modified="2024-08-21T05:16:00.019920Z" visited="2024-08-21T05:15:59.717157Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-21T05:16:00.019918Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Bhavesh.cpp" added="2024-08-21T05:17:00.520509Z" modified="2024-09-24T05:39:00.726019Z" visited="2024-08-21T05:17:00.520509Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-09-24T05:39:00.726017Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Bhavesh.cpp/assignment1.cpp" added="2024-08-21T05:17:35.649438Z" modified="2024-09-04T05:09:29.440464Z" visited="2024-08-21T05:17:35.649440Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-04T05:09:29.440463Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/(4)%20WhatsApp.html" added="2024-08-21T05:24:00.994149Z" modified="2024-08-21T05:24:01.241955Z" visited="2024-08-21T05:24:00.994150Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;gio open %u&apos;" modified="2024-08-21T05:24:01.241951Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/Assignment%201.rar" added="2024-08-21T05:24:24.619056Z" modified="2024-08-21T05:24:24.932394Z" visited="2024-08-21T05:24:24.619056Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-rar"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2024-08-21T05:24:24.619057Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-08-21T05:24:24.932392Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads" added="2024-08-21T05:24:38.975146Z" modified="2024-08-21T05:24:38.975153Z" visited="2024-08-21T05:24:38.975147Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2024-08-21T05:24:38.975149Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/Assignment%201/Ass1_a.cpp" added="2024-08-21T05:24:47.870569Z" modified="2024-08-27T05:09:31.857886Z" visited="2024-08-21T05:24:47.870569Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-27T05:09:31.857885Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/patil" added="2024-08-22T05:11:07.116081Z" modified="2024-08-27T05:07:18.835942Z" visited="2024-08-22T05:11:07.116082Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-27T05:07:18.835941Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/Practical%20Assignment%201.cpp" added="2024-08-27T05:37:09.390676Z" modified="2024-08-27T05:39:11.306478Z" visited="2024-08-27T05:37:09.390676Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-27T05:39:11.306477Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/iostream.cpp" added="2024-08-27T06:08:31.469227Z" modified="2024-10-21T03:28:21.366425Z" visited="2024-08-27T06:08:31.469228Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-21T03:28:21.366424Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/insertionsort.cpp" added="2024-08-28T05:38:03.800068Z" modified="2024-08-30T07:37:00.332874Z" visited="2024-08-28T05:38:03.800068Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-30T07:37:00.332873Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/mayuri%20dere/insertionsort.cpp" added="2024-08-28T05:38:14.538084Z" modified="2024-08-30T07:36:42.448477Z" visited="2024-08-28T05:38:14.538085Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-30T07:36:42.448475Z" count="3"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-08-28T06:30:46.826711Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-08-28T06:30:46.851463Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/quicksort.cpp" added="2024-08-28T05:48:15.116211Z" modified="2024-10-04T07:40:13.200238Z" visited="2024-08-28T05:48:15.116213Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-04T07:40:13.200237Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/mayuri%20dere/quicksort.cpp" added="2024-08-28T06:17:52.379058Z" modified="2024-08-30T07:36:29.715489Z" visited="2024-08-28T06:17:52.379060Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-30T07:36:29.715488Z" count="6"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-08-28T06:29:08.723992Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-08-28T06:29:08.732924Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/bubblesort.cpp" added="2024-08-28T06:40:23.190656Z" modified="2024-09-03T06:47:02.040690Z" visited="2024-08-28T06:40:23.190658Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-03T06:47:02.040688Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/mayuri%20dere/bubblesort.cpp" added="2024-08-30T08:06:54.999088Z" modified="2024-08-30T09:01:25.478825Z" visited="2024-08-30T08:06:54.999090Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-30T09:01:25.478824Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/mayuri%20dere/linklist.cpp" added="2024-08-30T08:10:32.229532Z" modified="2024-08-30T09:20:34.800042Z" visited="2024-08-30T08:10:32.229533Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-30T09:20:34.800041Z" count="17"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/mayuri%20dere/linkedlist.cpp" added="2024-08-30T09:00:06.131450Z" modified="2024-08-30T09:05:54.218682Z" visited="2024-08-30T09:00:06.131451Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-30T09:05:54.218680Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Bhavesh.cpp/assignment2.cpp" added="2024-09-04T05:11:45.760419Z" modified="2024-10-14T08:54:25.951866Z" visited="2024-09-04T05:11:45.760419Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-14T08:54:25.951865Z" count="34"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2024-09-10T06:43:28.423690Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Pictures/Screenshots/Screenshot%20from%202024-09-06%2012-34-44.png" added="2024-09-06T07:04:44.804494Z" modified="2024-09-06T07:04:44.804498Z" visited="2024-09-06T07:04:44.804495Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2024-09-06T07:04:44.804496Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/SayaliChavan%20Resume.pdf" added="2024-09-18T05:57:27.861163Z" modified="2024-09-18T06:00:59.692517Z" visited="2024-09-18T05:57:27.861164Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-09-18T06:00:59.692514Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/sachin%20kate" added="2024-09-19T05:09:27.616651Z" modified="2024-09-19T05:09:27.616661Z" visited="2024-09-19T05:09:27.616652Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-09-19T05:09:27.616655Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="trash:///linkedlist.cpp" added="2024-09-19T05:09:49.162540Z" modified="2024-09-19T05:09:49.162544Z" visited="2024-09-19T05:09:49.162541Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-19T05:09:49.162542Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/sachin%20kate/stack_operation.cpp" added="2024-09-19T06:15:29.977552Z" modified="2024-09-23T03:32:39.873061Z" visited="2024-09-19T06:15:29.977554Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-23T03:32:39.873059Z" count="20"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2024-09-23T03:32:27.278353Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/LinearBinary.cpp" added="2024-09-20T08:08:14.416475Z" modified="2024-09-20T09:19:57.125331Z" visited="2024-09-20T08:08:14.416476Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-20T09:19:57.125329Z" count="20"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/Assignment%20No1%20(1).docx" added="2024-09-20T08:20:31.418700Z" modified="2024-09-20T08:20:32.261096Z" visited="2024-09-20T08:20:31.418700Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-09-20T08:20:32.261094Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Samiksha" added="2024-09-20T08:36:15.533652Z" modified="2024-09-20T08:36:15.533655Z" visited="2024-09-20T08:36:15.533652Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-09-20T08:36:15.533653Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/hp33.codes" added="2024-09-23T02:51:22.656479Z" modified="2024-09-23T02:51:22.656483Z" visited="2024-09-23T02:51:22.656480Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-09-23T02:51:22.656481Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/hp33.codes/stack_linklist.cpp" added="2024-09-23T02:54:00.196901Z" modified="2024-10-21T03:25:43.475529Z" visited="2024-09-23T02:54:00.196903Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-21T03:25:43.475527Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/hp33.codes/single_linklist.cpp" added="2024-09-23T03:21:16.878848Z" modified="2024-09-23T03:33:28.086426Z" visited="2024-09-23T03:21:16.878848Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-23T03:33:28.086424Z" count="22"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/sachin%20kate/stack_linklist.cpp" added="2024-09-23T03:35:00.935789Z" modified="2024-10-21T03:20:20.712057Z" visited="2024-09-23T03:35:00.935791Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-21T03:20:20.712053Z" count="24"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2024-10-21T03:19:49.837383Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Bhavesh.cpp/stack_linklist.cpp" added="2024-09-24T05:18:57.869051Z" modified="2024-10-14T08:54:46.817334Z" visited="2024-09-24T05:18:57.869053Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-14T08:54:46.817333Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/stackimplelinklist.cpp" added="2024-09-24T05:37:39.654607Z" modified="2024-09-24T05:38:12.239130Z" visited="2024-09-24T05:37:39.654609Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T05:38:12.239125Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Bhavesh.cpp/stackimplelinklist.cpp" added="2024-09-24T05:39:07.833991Z" modified="2024-10-14T08:54:44.929623Z" visited="2024-09-24T05:39:07.833991Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-14T08:54:44.929621Z" count="27"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Bhavesh.cpp/Untitled%20Document%201" added="2024-09-25T06:02:41.017388Z" modified="2024-09-25T06:02:41.313518Z" visited="2024-09-25T06:02:41.017390Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-25T06:02:41.313516Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Bhavesh.cpp/infixtopostfix.cpp" added="2024-09-25T06:07:42.171556Z" modified="2024-10-14T08:54:43.091242Z" visited="2024-09-25T06:07:42.171557Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-14T08:54:43.091241Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/hacker.code" added="2024-09-30T03:34:04.730984Z" modified="2024-09-30T03:34:04.730987Z" visited="2024-09-30T03:34:04.730985Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-09-30T03:34:04.730986Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/hacker.code/binarysearch.cpp" added="2024-09-30T03:37:17.274263Z" modified="2024-10-21T03:25:18.629224Z" visited="2024-09-30T03:37:17.274265Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-21T03:25:18.629223Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/xampp-windows-x64-8.2.12-0-VS16-installer.exe" added="2024-10-04T05:26:40.591841Z" modified="2024-10-04T05:27:25.529199Z" visited="2024-10-04T05:26:40.591842Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;arqiver %f&apos;" modified="2024-10-04T05:27:25.529189Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/wordpress-6.6.2.zip" added="2024-10-04T05:28:25.754376Z" modified="2024-10-04T05:28:25.754379Z" visited="2024-10-04T05:28:25.754376Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-10-04T05:28:25.754378Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/Prort.jpeg" added="2024-10-04T06:17:52.635090Z" modified="2024-10-04T06:18:03.822467Z" visited="2024-10-04T06:17:52.635091Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-10-04T06:18:03.822464Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/tejas.cpp" added="2024-10-04T07:40:49.815986Z" modified="2024-10-04T07:40:50.129553Z" visited="2024-10-04T07:40:49.815988Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-04T07:40:50.129550Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/tejas%20patil/binaryarray.cpp" added="2024-10-04T07:42:15.290661Z" modified="2024-10-14T07:46:36.147478Z" visited="2024-10-04T07:42:15.290661Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-14T07:46:36.147475Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/tejasp.cpp" added="2024-10-04T07:49:29.493823Z" modified="2024-10-04T08:17:58.892018Z" visited="2024-10-04T07:49:29.493824Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-04T08:17:58.892016Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/tejas%20patil/tejasp.cpp" added="2024-10-04T08:19:50.925147Z" modified="2024-10-21T03:27:53.521980Z" visited="2024-10-04T08:19:50.925148Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-21T03:27:53.521979Z" count="6"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2024-10-04T08:20:46.261979Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/tejas%20patil/tejas.cpp" added="2024-10-04T08:32:43.993431Z" modified="2024-10-04T08:40:02.601453Z" visited="2024-10-04T08:32:43.993431Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-04T08:40:02.601450Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Website.html" added="2024-10-07T05:22:18.085284Z" modified="2024-10-07T05:22:18.085289Z" visited="2024-10-07T05:22:18.085285Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-10-07T05:22:18.085286Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Prasad143Ritu" added="2024-10-07T06:29:21.012253Z" modified="2024-10-07T06:29:21.326530Z" visited="2024-10-07T06:29:21.012254Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-07T06:29:21.326527Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Prasad143Ritu.c" added="2024-10-07T06:31:23.193711Z" modified="2024-10-07T06:38:45.652042Z" visited="2024-10-07T06:31:23.193713Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-07T06:38:45.652038Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Samiksha/LinearBinary.cpp" added="2024-10-14T07:48:27.651201Z" modified="2024-10-14T07:48:27.651205Z" visited="2024-10-14T07:48:27.651202Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-14T07:48:27.651203Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Desktop/New%20Folder/Shubham%20memane" added="2024-10-14T07:49:28.901550Z" modified="2024-10-14T07:49:28.901553Z" visited="2024-10-14T07:49:28.901550Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-10-14T07:49:28.901552Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/shubham%20memane" added="2024-10-14T07:50:50.971090Z" modified="2024-10-14T07:50:50.971101Z" visited="2024-10-14T07:50:50.971091Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-10-14T07:50:50.971095Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/shubham%20memane/bubblesort.cpp" added="2024-10-14T08:31:47.019112Z" modified="2024-10-14T08:31:47.019115Z" visited="2024-10-14T08:31:47.019112Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-14T08:31:47.019113Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/shubham%20memane/insertionsort.cpp" added="2024-10-14T08:33:38.809520Z" modified="2024-10-14T08:33:38.809523Z" visited="2024-10-14T08:33:38.809520Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-14T08:33:38.809522Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/shubham%20memane/Untitled%20File" added="2024-10-14T08:55:19.609022Z" modified="2024-10-14T08:55:19.609025Z" visited="2024-10-14T08:55:19.609022Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-14T08:55:19.609023Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/shubham%2062/Untitled%20File" added="2024-10-14T08:56:02.441980Z" modified="2024-10-14T08:56:02.441983Z" visited="2024-10-14T08:56:02.441980Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-14T08:56:02.441981Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/shubham%2062/LinearBinary.cpp" added="2024-10-14T09:02:30.752616Z" modified="2024-10-14T09:15:07.198954Z" visited="2024-10-14T09:02:30.752616Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-14T09:15:07.198952Z" count="16"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/Ass4.cpp" added="2024-10-17T06:12:12.682667Z" modified="2024-10-22T03:42:46.376010Z" visited="2024-10-17T06:12:12.682667Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-22T03:42:46.376009Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/sachin%20kate/Ass4.cpp" added="2024-10-17T06:18:50.170445Z" modified="2024-10-17T06:23:23.378419Z" visited="2024-10-17T06:18:50.170445Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-17T06:23:23.378417Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/we" added="2024-10-17T06:37:32.714622Z" modified="2024-10-17T06:37:33.007486Z" visited="2024-10-17T06:37:32.714624Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-17T06:37:33.007484Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Pictures/Screenshots/Screenshot%20from%202024-10-18%2013-43-22.png" added="2024-10-18T08:13:22.183605Z" modified="2024-10-18T08:13:22.183609Z" visited="2024-10-18T08:13:22.183606Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2024-10-18T08:13:22.183607Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/circular.cpp" added="2024-10-18T08:14:57.634355Z" modified="2024-10-18T08:42:50.848635Z" visited="2024-10-18T08:14:57.634356Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-18T08:42:50.848632Z" count="23"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/shubham%2062/shubham%2062" added="2024-10-21T03:27:03.330602Z" modified="2024-10-21T03:27:03.330604Z" visited="2024-10-21T03:27:03.330602Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-21T03:27:03.330603Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/CodePen_Export_QWgrPvp(1).zip" added="2024-10-21T05:28:52.583260Z" modified="2024-10-21T05:28:52.915262Z" visited="2024-10-21T05:28:52.583263Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2024-10-21T05:28:52.583264Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-10-21T05:28:52.915260Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/.cache/.fr-KGcUrs/CodePen_Export_QWgrPvp/license.txt" added="2024-10-21T05:28:57.954261Z" modified="2024-10-21T05:28:57.954264Z" visited="2024-10-21T05:28:57.954262Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-21T05:28:57.954262Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/.cache/.fr-16p18Z/CodePen_Export_QWgrPvp/src/style.css" added="2024-10-21T05:29:05.434054Z" modified="2024-10-21T05:29:05.434057Z" visited="2024-10-21T05:29:05.434055Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-21T05:29:05.434056Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Pictures/Screenshots/Screenshot%20from%202024-10-21%2011-17-22.png" added="2024-10-21T05:47:22.692449Z" modified="2024-10-21T05:47:22.692453Z" visited="2024-10-21T05:47:22.692450Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2024-10-21T05:47:22.692451Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/itcl2/HP%20USB20FD/LP/ass4.ipynb" added="2024-10-22T03:39:27.186275Z" modified="2024-10-22T03:39:27.212059Z" visited="2024-10-22T03:39:27.186277Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ipynb+json"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-10-22T03:39:27.186281Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-10-22T03:39:27.212053Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/Downloads/vertopal.com_ass4.zip" added="2024-10-22T03:40:24.081531Z" modified="2024-10-22T03:40:24.429349Z" visited="2024-10-22T03:40:24.081532Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2024-10-22T03:40:24.081533Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-10-22T03:40:24.429347Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/itcl2/index.html" added="2024-11-07T03:34:32.829165Z" modified="2024-11-07T03:34:32.829175Z" visited="2024-11-07T03:34:32.829166Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-11-07T03:34:32.829170Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

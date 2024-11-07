@@ -1,0 +1,7 @@
+2024-10-07 10:49:50.708 [info] update#setState idle
+2024-10-07 10:50:20.712 [info] update#setState checking for updates
+2024-10-07 10:50:20.946 [info] update#setState idle
+2024-10-07 11:50:20.716 [info] update#setState checking for updates
+2024-10-07 11:50:27.320 [info] update#setState idle
+2024-10-07 12:11:48.753 [info] Extension host with pid 30164 exited with code: 0, signal: unknown.
+2024-10-07 12:11:48.788 [error] [UtilityProcessWorker]: terminated unexpectedly with code 18446744072120040000, signal: unknown

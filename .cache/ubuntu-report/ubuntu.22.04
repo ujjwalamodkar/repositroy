@@ -1,0 +1,67 @@
+{
+  "Version": "22.04",
+  "OEM": {
+    "Vendor": "LENOVO",
+    "Product": "10FXS00P00",
+    "Family": "ThinkCentre M800"
+  },
+  "BIOS": {
+    "Vendor": "LENOVO",
+    "Version": "FWKT41A"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v3",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "1912"
+    }
+  ],
+  "RAM": 8,
+  "Disks": [
+    256.1,
+    0
+  ],
+  "Partitions": [
+    244.5,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "600mmx340mm",
+      "Resolution": "1024x768",
+      "Frequency": "59.92"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "en_IN",
+  "Timezone": "Asia/Kolkata",
+  "Install": {
+    "Media": "Ubuntu 22.04.1 LTS \"Jammy Jellyfish\" - Release amd64 (20220809.1)\n",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": false,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "3": "language",
+      "13": "console_setup",
+      "25": "prepare",
+      "34": "partman",
+      "38": "start_install",
+      "43": "timezone",
+      "54": "usersetup",
+      "83": "user_done",
+      "418": "done"
+    }
+  }
+}

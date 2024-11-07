@@ -1,0 +1,18 @@
+2024/10/21-10:59:22.170 4 Reusing MANIFEST /home/itcl2/.config/google-chrome/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2024/10/21-10:59:22.184 4 Recovering log #14
+2024/10/21-10:59:22.189 4 Reusing old log /home/itcl2/.config/google-chrome/Profile 1/Local Storage/leveldb/000014.log 
+2024/10/21-10:59:59.824 5 Level-0 table #18: started
+2024/10/21-10:59:59.832 5 Level-0 table #18: 56804 bytes OK
+2024/10/21-10:59:59.837 5 Delete type=0 #14
+2024/10/21-10:59:59.839 5 Compacting 4@0 + 1@1 files
+2024/10/21-10:59:59.846 5 Generated table #19@0: 161 keys, 50489 bytes
+2024/10/21-10:59:59.847 5 Compacted 4@0 + 1@1 files => 50489 bytes
+2024/10/21-10:59:59.849 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/21-10:59:59.851 5 Delete type=2 #18
+2024/10/21-10:59:59.852 5 Delete type=2 #7
+2024/10/21-10:59:59.852 5 Delete type=2 #10
+2024/10/21-10:59:59.852 5 Delete type=2 #15
+2024/10/21-10:59:59.852 5 Delete type=2 #12
+2024/10/21-11:00:52.937 5 Level-0 table #21: started
+2024/10/21-11:00:52.945 5 Level-0 table #21: 16116 bytes OK
+2024/10/21-11:00:52.949 5 Delete type=0 #17
